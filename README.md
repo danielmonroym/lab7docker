@@ -14,11 +14,11 @@ Para ingresar a la aplicación se da desde: **http://localhost:4200/**
 
 ---
 
-### Prerequisites
+### Prerequisitos
 Para poder ejecutar esta aplicación se debe tener instalado Docker Desktop o Docker Toolbox
 
 
-### How to run it?
+### Cómo se corre?
 
 La aplicacion entera se corre con el comando en una terminal  de git así:
 
