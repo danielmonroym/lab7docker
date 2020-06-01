@@ -2,7 +2,7 @@
 ## Lab7Docker
 
 
-Como ya se ecplicó este proyecto cotiene 3 contendores que contienen:
+Este proyecto cotiene 3 contenedores que contienen:
 
 - MySQL database
 - Java backend (Spring Boot)
